@@ -29,7 +29,7 @@ Visit my website Https://www.huizebruin.nl
 ## Bridges / Hubs
 * [Zigbee stick cc2531 without antenne](https://s.click.aliexpress.com/e/_AohMYM)
 * [Zigbee stick cc2531 with antenne](https://s.click.aliexpress.com/e/_9hAx1K)
-* [zigbee cc2530 router] (https://s.click.aliexpress.com/e/_9hz5jQ)
+* [zigbee cc2530 router](https://s.click.aliexpress.com/e/_9hz5jQ)
 
 
 ## Smart meter cable
