@@ -12,16 +12,15 @@ Visit my website Https://www.huizebruin.nl
 
 
 ## Lights
-
-
+* [LIVARNO LUX® LED-lamp - Zigbee Smart Home white](https://tc.tradetracker.net/?c=24118&m=12&a=385034&r=livarno-lux-led-white&u=%2Fp%2Flivarno-lux-led-lamp-zigbee-smart-home%2Fp100306622)
+* [LIVARNO LUX® RGB LED-lamp - Zigbee Smart Home](https://tc.tradetracker.net/?c=24118&m=12&a=385034&r=livarno-lux-led-rgb&u=%2Fp%2Flivarno-lux-rgb-led-lamp-zigbee-smart-home%2Fp100306623)
+* [SILVERCREST® Tussenstekker - Zigbee Smart Home ](https://tc.tradetracker.net/?c=24118&m=12&a=385034&r=silvercrest-tussenstekker-zigbee&u=%2Fp%2Fsilvercrest-tussenstekker-zigbee-smart-home%2Fp100306990)
 
 ## Sensors
-* [Sonoff SNZB 02 Zigbee](https://s.click.aliexpress.com/e/_9fd5co)
+* [Sonoff SNZB 02 themperatuur & vochtigheids sensor Zigbee](https://s.click.aliexpress.com/e/_9fd5co)
 
 
 ## Switches
-
-
 
 ## Heating
 * [OpenTherm Gateway](https://www.nodo-shop.nl/nl/opentherm-gateway/188-opentherm-gateway.html)
@@ -47,6 +46,7 @@ Visit my website Https://www.huizebruin.nl
 ## Lights
 * [LIVARNO LUX® LED-lamp - Zigbee Smart Home white](https://tc.tradetracker.net/?c=24118&m=12&a=385034&r=livarno-lux-led-white&u=%2Fp%2Flivarno-lux-led-lamp-zigbee-smart-home%2Fp100306622)
 * [LIVARNO LUX® RGB LED-lamp - Zigbee Smart Home](https://tc.tradetracker.net/?c=24118&m=12&a=385034&r=livarno-lux-led-rgb&u=%2Fp%2Flivarno-lux-rgb-led-lamp-zigbee-smart-home%2Fp100306623)
+* [SILVERCREST® Tussenstekker - Zigbee Smart Home ](https://tc.tradetracker.net/?c=24118&m=12&a=385034&r=silvercrest-tussenstekker-zigbee&u=%2Fp%2Fsilvercrest-tussenstekker-zigbee-smart-home%2Fp100306990)
 
 
 ## Sensors
