@@ -55,7 +55,7 @@ Visit my website Https://www.huizebruin.nl
 * [SILVERCREST® Deur- en raamsensor - Zigbee Smart Home](https://tc.tradetracker.net/?c=24118&m=12&a=385034&r=silvercrest-deur-en-raamsensor&u=%2Fp%2Fsilvercrest-deur-en-raamsensor-zigbee-smart-home%2Fp100306595)
 
 ## Other
-* [Original 18650 UPS With RTC & Coulometer Pro Power Supply Device Extended Two USB Port for Raspberry Pi 4 B / 3B+/ 3B] (https://s.click.aliexpress.com/e/_A3Bajw)
+* [Original 18650 UPS With RTC & Coulometer Pro Power Supply Device Extended Two USB Port for Raspberry Pi 4 B / 3B+/ 3B](https://s.click.aliexpress.com/e/_A3Bajw)
 * [development board ATTINY85](https://s.click.aliexpress.com/e/_Apbe9W)
 
 
