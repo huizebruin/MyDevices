@@ -46,17 +46,17 @@ Visit my website Https://www.huizebruin.nl
 ## Lights
 * [LIVARNO LUX® LED-lamp - Zigbee Smart Home white](https://tc.tradetracker.net/?c=24118&m=12&a=385034&r=livarno-lux-led-white&u=%2Fp%2Flivarno-lux-led-lamp-zigbee-smart-home%2Fp100306622)
 * [LIVARNO LUX® RGB LED-lamp - Zigbee Smart Home](https://tc.tradetracker.net/?c=24118&m=12&a=385034&r=livarno-lux-led-rgb&u=%2Fp%2Flivarno-lux-rgb-led-lamp-zigbee-smart-home%2Fp100306623)
-* [SILVERCREST® Tussenstekker - Zigbee Smart Home ](https://tc.tradetracker.net/?c=24118&m=12&a=385034&r=silvercrest-tussenstekker-zigbee&u=%2Fp%2Fsilvercrest-tussenstekker-zigbee-smart-home%2Fp100306990)
+* [SILVERCREST® Tussenstekker - Zigbee Smart Home](https://tc.tradetracker.net/?c=24118&m=12&a=385034&r=silvercrest-tussenstekker-zigbee&u=%2Fp%2Fsilvercrest-tussenstekker-zigbee-smart-home%2Fp100306990)
 
 
 ## Sensors
 * [BME280 Temperature/Humidity/Pressure sensor](https://www.aliexpress.com/item/32961882719.html)
 * [SILVERCREST® Bewegingssensor - Zigbee Smart Home](https://tc.tradetracker.net/?c=24118&m=12&a=385034&r=silvercrest-bewegingssensor&u=%2Fp%2Fsilvercrest-bewegingssensor-zigbee-smart-home%2Fp100306594)
-* [SILVERCREST® Deur- en raamsensor - Zigbee Smart Home ] (https://tc.tradetracker.net/?c=24118&m=12&a=385034&r=silvercrest-deur-en-raamsensor&u=%2Fp%2Fsilvercrest-deur-en-raamsensor-zigbee-smart-home%2Fp100306595)
+* [SILVERCREST® Deur- en raamsensor - Zigbee Smart Home](https://tc.tradetracker.net/?c=24118&m=12&a=385034&r=silvercrest-deur-en-raamsensor&u=%2Fp%2Fsilvercrest-deur-en-raamsensor-zigbee-smart-home%2Fp100306595)
 
 ## Other
 * [Original 18650 UPS With RTC & Coulometer Pro Power Supply Device Extended Two USB Port for Raspberry Pi 4 B / 3B+/ 3B] (https://s.click.aliexpress.com/e/_A3Bajw)
-* [development board ATTINY85 ] (https://s.click.aliexpress.com/e/_Apbe9W)
+* [development board ATTINY85](https://s.click.aliexpress.com/e/_Apbe9W)
 
 
 
