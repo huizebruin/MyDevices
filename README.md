@@ -63,9 +63,8 @@ Visit my website Https://www.huizebruin.nl
 
 ## Sensors
 * [BME280 Temperature/Humidity/Pressure sensor](https://www.aliexpress.com/item/32961882719.html)
-* [SILVERCREST® Bewegingssensor - Zigbee Smart Home ] (https://tc.tradetracker.net/?c=24118&m=12&a=385034&r=silvercrest-bewegingssensor&u=%2Fp%2Fsilvercrest-bewegingssensor-zigbee-smart-home%2Fp100306594)
+* [SILVERCREST® Bewegingssensor - Zigbee Smart Home](https://tc.tradetracker.net/?c=24118&m=12&a=385034&r=silvercrest-bewegingssensor&u=%2Fp%2Fsilvercrest-bewegingssensor-zigbee-smart-home%2Fp100306594)
 
-* [Lidl Motion Sensor](https://tc.tradetracker.net/?c=24118&m=12&a=396911&u=%2FSILVERCREST-Bewegingssensor-Zigbee-Smart-Home%2Fp100306594)
 
 
 
